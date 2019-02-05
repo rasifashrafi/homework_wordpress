@@ -1,0 +1,12 @@
+1. Can you come up with an example of HTML portfolio template that you would like to use? Share the link with the professor and explain why you think this HTML template is good?
+
+Ans:	Yes. The link of html templates is "https://colorlib.com/wp/template/ronin/"
+
+
+2.What change do you have to make to the portfolio template selected to accommodate to the project specifications? What sections would you have to add, remove or change somehow?
+
+Ans:	I need to add education, contract form and google map in this portfolio. I do not need testomonials and blog section, so I am going to 		delete those section. I am going to edit about me, header, footer section.
+
+3. If the template does not come with skill gauges or similar, can you find which gauges you would like to use and send the link to the professor?
+
+Ans: 	My template come with skill gauges, so I am going to use that.
